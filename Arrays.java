@@ -46,5 +46,30 @@ public class Arrays
             System.out.println(name[i]);
         }
     }
+
+    // public static void sort(char[] ar1) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'sort'");
+    // }
+
+    // public static void sort(char[] ar1) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'sort'");
+    // }
+
+    // public static boolean equals(char[] ar1, char[] ar2) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'equals'");
+    // }
+
+    // public static void sort(Object ar1) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'sort'");
+    // }
+
+    // public static void sort(Object ar1) {
+    //     // TODO Auto-generated method stub
+    //     throw new UnsupportedOperationException("Unimplemented method 'sort'");
+    // }
     
 }
